@@ -1,0 +1,55 @@
+body {
+	background-image: url(images/honeycomb.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+h1, h2 {
+	padding: 0px 15px;
+	color: #f4f4f4;
+	text-align: center;
+	display: inline-block;
+}
+
+header {
+	background-color: #2a2a2a;
+}
+
+.block2 {
+	width: 560px;
+	margin: auto;
+	background-color: #f4f4f4;
+	border-radius: 20%;
+	border: 2px solid black;
+	}
+
+.block2 h2 {
+	position: relative;
+	left: 40%;
+	color: black;
+}
+
+.block2 p {
+	margin-top: 0;
+	padding: 0 25px 25px 25px;
+}
+
+.block3 {
+	width: 560px;
+	margin: auto;
+	background-color: #f4f4f4;
+	border-radius: 20%;
+	border: 2px solid black;
+}
+
+.block3 h2 {
+	position: relative;
+	left: 40%;
+	color: black;
+}
+
+.block3 p {
+	margin-top: 0;
+	padding: 0 35px 35px 35px;
+}
